@@ -5,7 +5,7 @@
     <title>lj的网页</title>
     <style type="text/css">
         body{
-            background-image: url(1.jpg/);
+            background-image: url(2.jpg/);
             background-size: 100% 100%;
             height:100%;
         }
